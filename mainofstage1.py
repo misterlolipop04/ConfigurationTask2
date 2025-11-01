@@ -91,7 +91,7 @@ class DependencyVisualizer:
 
 def main():
     parser = argparse.ArgumentParser(description='Dependency Graph Visualizer for Rust/Crates.io')
-    parser.add_argument('--config', default='config.json', help='Path to config file (default: config.json)')
+    parser.add_argument('--config', default='config1.json', help='Path to config file (default: config.json)')
     args = parser.parse_args()
 
     try:
