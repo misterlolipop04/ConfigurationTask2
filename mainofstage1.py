@@ -43,13 +43,11 @@ class DependencyVisualizer:
         if not isinstance(self.config['repo_url'], str):
             raise ConfigError("repo_url must be a string")
 
-        # Валидация URL для конкретного пакета на crates.io
         try:
             result = urlparse(self.config['repo_url'])
             if not all([result.scheme, result.netloc]):
                 raise ConfigError("repo_url must be a valid URL")
 
-            # Проверяем, что URL соответствует формату crates.io
             if "crates.io" not in result.netloc:
                 raise ConfigError("repo_url must point to crates.io")
 
@@ -79,7 +77,6 @@ class DependencyVisualizer:
         print(f"\nDemo: Will analyze package '{self.config['package_name']}'")
         print(f"Package URL: {self.config['repo_url']}")
 
-        # Извлекаем имя пакета из URL для демонстрации
         package_from_url = self.config['repo_url'].split('/')[-1]
         print(f"Package name extracted from URL: {package_from_url}")
 
