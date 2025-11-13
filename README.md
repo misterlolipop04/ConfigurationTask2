@@ -14,3 +14,10 @@
 <img width="1118" height="824" alt="image" src="https://github.com/user-attachments/assets/08924c1d-545d-453e-9b69-4c9434bafe2b" />
 <img width="1213" height="345" alt="image" src="https://github.com/user-attachments/assets/821badd6-02dc-4662-94f2-7cd38a57f10b" />
 
+Этап 3. Построен граф зависимостей (с учетом транзитивности) и выполнены
+основные операции над ним.
+<img width="1071" height="647" alt="image" src="https://github.com/user-attachments/assets/27060445-1c07-45f2-8ba4-3edc5dc0a80a" />
+
+Этап 4. Выполнены дополнительные операции над графом зависимостей.
+
+Этап 5. Получено графическое представление графа зависимостей.
