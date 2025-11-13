@@ -11,4 +11,6 @@
 
 Этап 2. Реализована основная логика получения данных о зависимостях для их
 дальнейшего анализа и визуализации.
-<img width="1035" height="391" alt="image" src="https://github.com/user-attachments/assets/4c3acacf-3e7d-4dab-9878-143073607905" />
+<img width="1118" height="824" alt="image" src="https://github.com/user-attachments/assets/08924c1d-545d-453e-9b69-4c9434bafe2b" />
+<img width="1213" height="345" alt="image" src="https://github.com/user-attachments/assets/821badd6-02dc-4662-94f2-7cd38a57f10b" />
+
