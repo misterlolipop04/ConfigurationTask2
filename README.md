@@ -20,7 +20,7 @@
 
 Этап 4. Выполнены дополнительные операции над графом зависимостей.
 <img width="1252" height="829" alt="image" src="https://github.com/user-attachments/assets/477a2e86-bbef-4441-a9cf-8b398a2ffb9b" />
-<img width="1333" height="649" alt="image" src="https://github.com/user-attachments/assets/71f97c00-8f3f-4e19-9ade-7ff96fcd7c23" />
+<img width="1198" height="330" alt="image" src="https://github.com/user-attachments/assets/3eea06a4-d951-4c4c-bc15-ba7f4e872ac8" />
 
 
 Этап 5. Получено графическое представление графа зависимостей.
