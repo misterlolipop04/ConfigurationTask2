@@ -1,0 +1,8 @@
+{
+    "package_name": "A",
+    "repo_url": "https://registry.npmjs.org/express",
+    "test_repo_mode": true,
+    "test_repo_path": "test_repo.json",
+    "output_image": "dependencies.png",
+    "ascii_tree": true
+}
